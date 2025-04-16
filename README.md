@@ -3,12 +3,11 @@
 ```yaml
   status: learning C, Bash, Linux, CI/CD, Docker
   focus: backend logic, infrastructure, automation
-  origin: Naryn → Moscow → (Soon: EU/US)
   motto: Building solid skills with limited time and unlimited persistence
 
 🚀 About Me
 
-I’m a self-taught developer transitioning from barista to DevOps/backend engineering.
+I’m a self-taught developer to DevOps/backend engineering.
 
 Currently studying at School 21, where I:
 	•	Dive deep into low-level programming (C)
@@ -24,16 +23,15 @@ I’m actively building side projects to apply:
 	•	life_pong – terminal Pong x Game of Life in C
 	•	matrix – data visualization heatmap in Python
 	•	p2p_vers01 – fullstack React + Express + Docker demo
-	•	p2pNetwork – fullstack app with Drizzle ORM & modern web stack
+	•	p2pNetwork – fullstack app with Drizzle ORM & modern web stack demo
 
 🧠 What I’m Learning
 	•	DevOps workflows
 	•	Cloud infrastructure
 	•	Low-level programming and backend patterns
-	•	English (currently ~B2, improving daily)
 
 🌍 Let’s Connect
-	•	LinkedIn https://www.linkedin.com/in/arildmt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  •     Mail  arildfk@gmail.com	
   •	Instagram  https://www.instagram.com/arildmt?igsh=MTZwZ2ZwaDhwajRkcg%3D%3D&utm_source=qr
 
 ## Collaborative Projects (built with peers from School 21)
