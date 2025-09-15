@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+
 
 - 🔭 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **C/C++ 𝚊𝚗𝚍 𝙶𝚘𝙻𝚊𝚗𝚐 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜.**
 - 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜, 𝚂𝚀𝙻 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜.**
@@ -158,13 +158,7 @@
   <img src="metrics.detailed.svg" width="75%"/>
 </p>
 
-## How to update data
-1. Edit `data/school21.json` with your latest XP and skills.
-2. Commit and push. GitHub Actions will re-render charts into `assets/`.
-3. Refresh your profile page.
 
-<div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
