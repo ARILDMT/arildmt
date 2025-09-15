@@ -69,8 +69,33 @@
 </p>
 
 #### 🤝 Social Activities
+### 🏆 School 21 Achievements
+
+#### 🎓 Academic Activities
+<p align="left">
+  <img src="assets/badges/Academic_activities/Encourager.png" alt="Encourager" height="60"/>
+  <img src="assets/badges/Academic_activities/Such a listener.png" alt="Such a listener" height="60"/>
+</p>
+<p align="left">
+  <strong>Encourager</strong> • <strong>Such a listener</strong>
+</p>
+
+#### 📚 Educational Progress
+<p align="left">
+  <img src="assets/badges/Edu_progress/Welcome on board.png" alt="Welcome on board" height="60"/>
+  <img src="assets/badges/Edu_progress/Real programmer.png" alt="Real programmer" height="60"/>
+  <img src="assets/badges/Edu_progress/Perfectionist.png" alt="Perfectionist" height="60"/>
+</p>
+<p align="left">
+  <strong>Welcome on board</strong> • <strong>Real programmer</strong> • <strong>Perfectionist</strong>
+</p>
+
+#### 🤝 Social Activities
 <p align="left">
   <img src="assets/badges/Social_activities/Tournament event аква 2-1.png" alt="Tournament event" height="60"/>
+</p>
+<p align="left">
+  <strong>Tournament event аква 2-1</strong>
 </p>
 
 #
