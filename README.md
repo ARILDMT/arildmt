@@ -42,7 +42,7 @@
 
 #
 
-## 🎓 School 21 Dashboard (auto-generated charts)
+## 🎓 School 21 Dashboard
 
 ### 📈 XP Progress
 <img src="assets/xp_graph.png" alt="XP graph" width="600"/>
