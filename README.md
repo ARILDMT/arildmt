@@ -7,14 +7,13 @@
 <br/>
 <br/>
 
-
-
-- 🔭 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **C/C++ 𝚊𝚗𝚍 𝙶𝚘𝙻𝚊𝚗𝚐 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜.**
-- 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜, 𝚂𝚀𝙻 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜.**
-- 👯 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜.**
+- 🔭 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 **learning C → C++ → GoLang**
+- 🌱 𝙸'𝚖 **exploring Linux, Shell/Bash, and DevOps practices**
+- 🗄️ 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **SQL and working with databases**
+- 📚 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 **algorithms, structured programming, and analytics**
+- 🤝 𝙿𝚛𝚊𝚌𝚝𝚒𝚌𝚒𝚗𝚐 **teamwork and code review**
+- ✈️ 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 **about drones, fintech, and automation**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 **𝙲/𝙲++, 𝙶𝚘, 𝙻𝚒𝚗𝚞𝚡, 𝚊𝚗𝚍 𝚂𝚌𝚑𝚘𝚘𝚕 𝟸𝟷!**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙲𝚘𝚍𝚒𝚗𝚐 𝚒𝚜 𝚊 𝚓𝚘𝚞𝚛𝚗𝚎𝚢, 𝚗𝚘𝚝 𝚊 𝚍𝚎𝚜𝚝𝚒𝚗𝚊𝚝𝚒𝚘𝚗!**
 
 <br/>
 <br/>
@@ -91,29 +90,5 @@
 </p>
 </details>
 <br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=arildmt&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
- 
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-
-<br/>
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
-</p>
-
-
-
 
 </div>
