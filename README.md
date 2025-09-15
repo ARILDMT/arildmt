@@ -95,7 +95,7 @@
   <img src="assets/badges/Social_activities/Tournament event аква 2-1.png" alt="Tournament event" height="60"/>
 </p>
 <p align="left">
-  <strong>Tournament event аква 2-1</strong>
+  <strong>Top Contributor (2nd place)</strong>
 </p>
 
 #
