@@ -58,22 +58,8 @@
 #### 🎓 Academic Activities
 <p align="left">
   <img src="assets/badges/Academic_activities/Encourager.png" alt="Encourager" height="60"/>
-  <img src="assets/badges/Academic_activities/Such a listener.png" alt="Such a listener" height="60"/>
-</p>
 
-#### 📚 Educational Progress
-<p align="left">
-  <img src="assets/badges/Edu_progress/Welcome on board.png" alt="Welcome on board" height="60"/>
-  <img src="assets/badges/Edu_progress/Real programmer.png" alt="Real programmer" height="60"/>
-  <img src="assets/badges/Edu_progress/Perfectionist.png" alt="Perfectionist" height="60"/>
-</p>
-
-#### 🤝 Social Activities
-### 🏆 School 21 Achievements
-
-#### 🎓 Academic Activities
-<p align="left">
-  <img src="assets/badges/Academic_activities/Encourager.png" alt="Encourager" height="60"/>
+  
   <img src="assets/badges/Academic_activities/Such a listener.png" alt="Such a listener" height="60"/>
 </p>
 <p align="left">
@@ -83,7 +69,11 @@
 #### 📚 Educational Progress
 <p align="left">
   <img src="assets/badges/Edu_progress/Welcome on board.png" alt="Welcome on board" height="60"/>
+
+  
   <img src="assets/badges/Edu_progress/Real programmer.png" alt="Real programmer" height="60"/>
+
+  
   <img src="assets/badges/Edu_progress/Perfectionist.png" alt="Perfectionist" height="60"/>
 </p>
 <p align="left">
